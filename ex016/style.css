@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    font-family: Fira Code;
+    
+
+}
+
+body {
+    background-image: linear-gradient(to right, #8AA6A3,#10403B);
+}
+
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #0b2b27b7;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+}
+
+h1{
+    color: #8AA6A3;
+    text-align: center;
+    text-shadow: 1px 1px 0px #12474262;
+}
+
+h2 {
+    color: #127369;
+
+}

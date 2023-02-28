@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(2, 22, 22);
+    font-family: Fira Code;
+    
+}
+
+h1 {
+    color: aliceblue;
+    background-color: rgb(8, 70, 70);
+}
+
+h2 {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+    text-align: justify;
+}
